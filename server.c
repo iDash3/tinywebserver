@@ -15,7 +15,7 @@
 #include <unistd.h>
 #include <cmark.h> 
 
-#define PORT 8080
+#define PORT 8000
 #define BUFFER_SIZE 8192
 
 char* read_file(const char* filename) {
