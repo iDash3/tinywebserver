@@ -19,7 +19,7 @@ i lost the code for my original website [isaacbs.com](https://isaacbs.com). this
 
 #### recent
 
-- hosting a textfile on a c webserver [idea](https://x.com/isaacbautistas/status/1793762282339729601) [done - this site]
+- hosting a textfile on a c webserver [idea](https://x.com/isaacbautistas/status/1793762282339729601) [[done](https://txt.isaacbs.com/)]
   
 - teaching transformers to a kid [idea](https://x.com/isaacbautistas/status/1793435710399160465) [[in progress](https://x.com/isaacbautistas/status/1794730213798268970)]
   
