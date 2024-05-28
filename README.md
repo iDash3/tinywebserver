@@ -1,4 +1,4 @@
-I lost the code for my original website [isaacbs.com](https://isaacbs.com). This is a text file running on a minimalist [C web server](https://github.com/iDash3/tinywebserver.git). A literal README
+i lost the code for my original website [isaacbs.com](https://isaacbs.com). this is a text file running on a minimalist [c web server](https://github.com/iDash3/tinywebserver.git). a literal README
 
 - - - - - - - -
 
@@ -19,7 +19,7 @@ I lost the code for my original website [isaacbs.com](https://isaacbs.com). This
 
 #### recent
 
-- hosting a textfile on a C webserver [idea](https://x.com/isaacbautistas/status/1793762282339729601) [done - this site]
+- hosting a textfile on a c webserver [idea](https://x.com/isaacbautistas/status/1793762282339729601) [done - this site]
   
 - teaching transformers to a kid [idea](https://x.com/isaacbautistas/status/1793435710399160465) [[in progress](https://x.com/isaacbautistas/status/1794730213798268970)]
   
@@ -53,5 +53,6 @@ I lost the code for my original website [isaacbs.com](https://isaacbs.com). This
 - 3d antennas: grandparents live in a mountain, had problems getting signal. designed and built antennas for them. connected the mountains.  
 
 - physics degree: got it
+  - [some notes on electrodynamics, quantum mechanics, optics](https://github.com/iDash3/textbook_notes/tree/main)
   
-will keep updating with more stuff
+still updating
