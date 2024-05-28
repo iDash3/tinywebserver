@@ -52,4 +52,6 @@ I lost the code for my original website [isaacbs.com](https://isaacbs.com). This
 
 - 3d antennas: grandparents live in a mountain, had problems getting signal. designed and built antennas for them. connected the mountains.  
 
+- physics degree: got it
+  
 will keep updating with more stuff
