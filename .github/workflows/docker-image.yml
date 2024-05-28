@@ -26,6 +26,8 @@ jobs:
       run: docker tag tinywebserver:dev registry.txt.isaacbs.com/tinywebserver:dev
     - name: Push Gateway image
       run: docker push registry.txt.isaacbs.com/tinywebserver:dev
+    - name: Trigger Portainer Webhook
+      run: curl -X POST ${{ secrets.PORTAINER_WEBHOOK_URL }}
 
 
 
