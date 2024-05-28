@@ -33,7 +33,7 @@ i lost the code for my original website [isaacbs.com](https://isaacbs.com). this
 
 - suun: solo traveler app. wanted to run graph ml algorithms on the real world while living in Germany, created an entire app with multiple functionalities such as live chat, events, socials, maps, etc. [[stopped](https://play.google.com/store/apps/details?id=sunn.app)]
 
-- whycombinator: explore startup latent space (automatic webscraper, vector search, frontend) [[done](https://whycombinator.com)]
+- whycombinator: explore startup latent space (automatic webscraper, vector search, frontend) [[done](https://whycombinator.app)]
 
 - kioete: tequila clothes. watched wasteful tequila production, decided to use the residues for something useful: high fashion. got a partnership, learned chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete_/)] 
 
