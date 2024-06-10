@@ -15,7 +15,7 @@ i lost the code for my original website [isaacbs.com](https://isaacbs.com). this
 
 - - - - - - - - 
 
-## just did it
+## did it
 
 #### recent
 
