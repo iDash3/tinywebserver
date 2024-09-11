@@ -1,4 +1,4 @@
-i lost the code for my original website [isaacbs.com](https://isaacbs.com). this is a text file running on a minimalist [c web server](https://github.com/iDash3/tinywebserver.git). a literal README
+lost the code for my original website [isaacbs.com](https://isaacbs.com). this is a text file running on a minimalist [c web server](https://github.com/iDash3/tinywebserver.git). a literal README
 
 - - - - - - - -
 
@@ -17,7 +17,9 @@ i lost the code for my original website [isaacbs.com](https://isaacbs.com). this
 
 ## did it
 
-#### recent
+#### ordered by recency 
+
+- backpacked China for a month. picked up hints from the language (no noun declension, no tense/subject conjugation!!). writing a very interesting analysis.
 
 - hosting a textfile on a c webserver [idea](https://x.com/isaacbautistas/status/1793762282339729601) [[done](https://txt.isaacbs.com/)]
   
@@ -25,17 +27,15 @@ i lost the code for my original website [isaacbs.com](https://isaacbs.com). this
   
 - mexico's biggest hackathon [idea](https://x.com/isaacbautistas/status/1789916104178946466) [[in progress](https://x.com/isaacbautistas/status/1791195744432796007)]
 
-#### not that recent
-
 - infini: own (dingboard like) edtech software, infinite canvas with ai. motivation was a google colab for theretical papers all the way to first principles. currently being used to teach a kid transformers and to explain the theoretical side of papers. [done - published soon]
+
+- kioete: tequila clothes. watched wasteful tequila production, decided to use the residues for something useful: high fashion. got a partnership, learned chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete_/)] 
 
 - quantum tunneling loss and other ml trinkets [published soon]
 
 - suun: solo traveler app. wanted to run graph ml algorithms on the real world while living in Germany, created an entire app with multiple functionalities such as live chat, events, socials, maps, etc. [[stopped](https://play.google.com/store/apps/details?id=sunn.app)]
 
-- whycombinator: explore startup latent space (automatic webscraper, vector search, frontend) [[done](https://whycombinator.app)]
-
-- kioete: tequila clothes. watched wasteful tequila production, decided to use the residues for something useful: high fashion. got a partnership, learned chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete_/)] 
+- whycombinator: day build. explore startup latent space (automatic webscraper, vector search, frontend) [[done](https://whycombinator.app)]
 
 - convolution and other ml basics:
   - [some notes on ml](https://github.com/iDash3/textbook_notes/tree/main)
@@ -44,15 +44,17 @@ i lost the code for my original website [isaacbs.com](https://isaacbs.com). this
   - sam
   - diffusion models
   - transformers from scratch
-  - kan
+  - ...
 
 - ml paper remakes: explain theory using infini, then code them up from scratch.
   - sam
   - ...
 
-- 3d antennas: grandparents live in a mountain, had problems getting signal. designed and built antennas for them. connected the mountains.  
-
 - physics degree: got it
   - [some notes on electrodynamics, quantum mechanics, optics](https://github.com/iDash3/textbook_notes/tree/main)
+
+- interned at Porsche in Germany. can speak fluent German.
+
+- 3d antennas: grandparents live in a mountain, had problems getting signal. designed and built antennas for them. connected the mountains.
   
 still updating
