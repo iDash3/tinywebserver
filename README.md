@@ -15,11 +15,11 @@ lost the code for my original website [isaacbs.com](https://isaacbs.com). this i
 
 - - - - - - - - 
 
-## did it
+# did it
 
 #### ordered by recency 
 
-- backpacked China for a month. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [[writing a very interesting analysis]]
+- backpacked China for a month. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [writing a very interesting analysis]
 
 - hosting a textfile on a c webserver [idea](https://x.com/isaacbautistas/status/1793762282339729601) [[done](https://txt.isaacbs.com/)]
   
@@ -27,13 +27,13 @@ lost the code for my original website [isaacbs.com](https://isaacbs.com). this i
   
 - mexico's biggest hackathon [idea](https://x.com/isaacbautistas/status/1789916104178946466) [[in progress](https://x.com/isaacbautistas/status/1791195744432796007)]
 
-- infini: own (dingboard like) infinite canvas with ai. motivation was a google colab for theretical papers all the way to first principles. currently being used to teach a kid transformers and to explain the theoretical side of papers. [done - published soon]
+- infini: (dingboard like) infinite canvas with ai. google colab for theretical papers all the way to first principles. being used to teach a kid transformers and to explain the theoretical side of papers. [done - published soon]
 
-- kioete: tequila clothes! watched wasteful tequila production, decided to use the residues for something useful: high fashion clothing. got a partnership, learned the chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete_/)] 
+- kioete: tequila clothes! watched wasteful tequila production, decided to use the residues for something useful: high fashion. got a partnership, learned textile chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete_/)] 
 
 - quantum tunneling loss and other ml trinkets [published soon]
 
-- suun: solo traveler app. wanted to run graph ml algorithms on the real world while living in Germany, created an entire app with multiple functionalities such as live chat, events, socials, maps, etc. [[stopped](https://play.google.com/store/apps/details?id=sunn.app)]
+- suun: solo traveler app. wanted to run graph ml algorithms on the real world while living in Germany, created an full app with multiple functionalities such as live chat, events, socials, map, etc. [[stopped](https://play.google.com/store/apps/details?id=sunn.app)]
 
 - whycombinator: day build. explore startup latent space (automatic webscraper, vector search, frontend) [[done](https://whycombinator.app)]
 
@@ -53,7 +53,7 @@ lost the code for my original website [isaacbs.com](https://isaacbs.com). this i
 - physics degree: got it
   - [some notes on electrodynamics, quantum mechanics, optics](https://github.com/iDash3/textbook_notes/tree/main)
 
-- interned at Porsche in Germany. now fluent in German.
+- interned at Porsche in Germany. achieved fluency in German!
 
 - 3d antennas: grandparents live in a mountain, had problems getting signal. designed and built antennas for them. connected the mountains.
   
