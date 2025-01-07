@@ -28,7 +28,7 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 
 - infini: playground for my diffusion research [done - published soon]
 
-- kioete: tequila high fashion! watched wasteful tequila production, decided to use the residues for something useful: got a partnership, learned textile chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete_/)] 
+- kioete: tequila high fashion! watched wasteful tequila production, decided to use the residues for something useful: got a partnership, learned textile chemistry, assembled a team, [ran lab tests](https://x.com/isaacbautistas/status/1729293604957429955).  [[paused](https://www.instagram.com/kioete/)] 
 
 - suun: solo traveler app. wanted to run graph ml algorithms on the real world while living in Germany, created an full app with multiple functionalities such as live chat, events, socials, map, etc. [[stopped](https://play.google.com/store/apps/details?id=sunn.app)]
 
