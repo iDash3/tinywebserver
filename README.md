@@ -57,5 +57,9 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 - ml paper remakes: explain theory using infini, then code them up from scratch.
   - sam
   - ...
+ 
+- designed and built drones at 15
+ 
+- worked at VPS startup at 14
   
 still updating
