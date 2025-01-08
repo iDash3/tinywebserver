@@ -16,7 +16,7 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 
 #### ordered by recency 
 
-- backpacked China. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [started collaborating with a linguistics proff]
+- backpacked China. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [started collaborating with a linguistics prof]
 
 - running Zepheon, a consulting agency that I started in SF. Began with ML but now do absolutely everything (can't fully disclose but: Generative AI Studio for an Architecture Firm, Distributed Analytics Mesh Platform for a lab in LA, Neural Knowledge Synthesis Engine for a legaltech startup)
   
@@ -58,7 +58,7 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
   - sam
   - ...
  
-- designed and built drones at 15
+- designed, built and raced robots at 15 [stopped bc it was too expensive]
  
 - worked at VPS startup at 14
   
