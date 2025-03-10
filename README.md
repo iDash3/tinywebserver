@@ -14,11 +14,15 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 
 - - - - - - - - 
 
-#### ordered by recency 
+#### ordered by recency
+
+- lived in rural Japan for some time. fell in love with Japanese culture, decided to speed run the language
+
+- got into the Mexican legal system bc of a tragic event, saw how terribly inneficient it was and created a solution. it's simple but it solves a huge problem. [currently being used by 3 law firms in Mexico]
 
 - backpacked China. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [small collaboration with a linguistics prof]
 
-- running Zepheon, a consulting agency that I started in SF. Began with ML but now do everything (can't fully disclose but: Generative AI Studio for an Architecture Firm, Distributed Analytics Mesh Platform for a lab in LA, Neural Knowledge Synthesis Engine for a legaltech startup)
+- running Zepheon, a consulting agency started in SF. Began with ML but now do everything (portafolio: Generative AI Studio for a Chinese Architecture Firm, Distributed Analytics Platform for a lab in LA, Neural Knowledge Synthesis for a legaltech startup)
 
 - mexico's biggest hackathon [idea](https://x.com/isaacbautistas/status/1789916104178946466) [[in progress](https://x.com/isaacbautistas/status/1791195744432796007)]
   
@@ -39,7 +43,7 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 
 - interned at Porsche in Germany. fluent (B2) german
 
-- certified fluent in 4 (soon 5) languages. simply became obessesed with being able to communicate in my favorite countries [Japanese test in 4 months]
+- certified fluent in 4 (soon 5) languages! became obessesed with being able to communicate in my favorite countries [Japanese test soon]
 
 - 3d antennas: grandparents live in a mountain, had problems getting signal. designed and 3D printed antennas for them
 
