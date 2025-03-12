@@ -62,7 +62,7 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
   - sam
   - ...
  
-- designed, built and raced robots at 16 [stopped bc it was too expensive]
+- designed, built and raced robots at 16. only non university competitor at TryTa (robotics competition) [stopped bc it was too expensive]
  
 - worked at VPS startup at 15
   
