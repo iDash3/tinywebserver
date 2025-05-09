@@ -5,11 +5,10 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 ## QUESTS
 
 ##### main quests
-- ******* (soon)
+- ai researcher
 - o1 visa
 
 ##### side quests
-- mexico's biggest Hackaton
 - pilot's licence (1%)
 
 - - - - - - - - 
@@ -22,7 +21,7 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 
 - backpacked China. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [small collaboration with a linguistics prof]
 
-- running Zepheon, a consulting agency started in sf. began with ML but now do everything (portafolio: Generative AI Studio for a Chinese Architecture Firm, Distributed Analytics Platform for a lab in LA, Neural Knowledge Synthesis for a legaltech startup)
+- running Zepheon, a consulting agency started in sf. began with ML but now do everything (portafolio: Generative AI Studio for a Chinese Architecture Firm, Analytics Platform for a lab in LA, AI Engine for a legaltech startup)
 
 - mexico's biggest hackathon [idea](https://x.com/isaacbautistas/status/1789916104178946466) [[in progress](https://x.com/isaacbautistas/status/1791195744432796007)]
   
