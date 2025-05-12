@@ -1,4 +1,4 @@
-Lost the code for my original website [isaacbs.com](https://isaacbs.com). This is a text file running on a minimalist [c web server](https://github.com/iDash3/tinywebserver.git). A literal README
+This is a text file running on a minimalist [c web server](https://github.com/iDash3/tinywebserver.git). A literal README for [isaacbs.com](https://isaacbs.com)
 
 - - - - - - - -
 
@@ -15,13 +15,15 @@ Lost the code for my original website [isaacbs.com](https://isaacbs.com). This i
 
 #### ordered by recency
 
+- annoyed at Azure's extremely expensive Postgres service. ran my own devops for it instead and make a tutorial so anyway can do it too [[done]()https://www.youtube.com/watch?v=COW1veHWiaE&t=207s)]
+
 - lived in rural Japan for some time. fell in love with Japanese culture, decided to speed run the language
 
 - got into the Mexican legal system bc of a tragic event, saw how terribly inneficient it was and created a solution. it's simple but it solves a huge problem. [currently being used by 3 law firms in Mexico]
 
 - backpacked China. picked up hints from the language (no noun declension, no tense/subject conjugation!!). [small collaboration with a linguistics prof]
 
-- running Zepheon, a consulting agency started in sf. began with ML but now do everything (portafolio: Generative AI Studio for a Chinese Architecture Firm, Analytics Platform for a lab in LA, AI Engine for a legaltech startup)
+- ran Zepheon, a consulting agency started in sf. began with ML but now do everything (portafolio: Generative AI Studio for a Chinese Architecture Firm, Analytics Platform for a lab in LA, AI Engine for a legaltech startup)
 
 - mexico's biggest hackathon [idea](https://x.com/isaacbautistas/status/1789916104178946466) [[in progress](https://x.com/isaacbautistas/status/1791195744432796007)]
   
