@@ -15,7 +15,9 @@ This is a text file running on a minimalist [c web server](https://github.com/iD
 
 #### ordered by recency
 
-- annoyed at Azure's extremely expensive Postgres service. ran my own devops for it instead and make a tutorial so anyway can do it too [[done](https://www.youtube.com/watch?v=COW1veHWiaE&t=207s)]
+- diffusion math from scratch!!! [[done]()]
+
+- annoyed at Azure's expensive Postgres service. ran my own devops for it instead and made a tutorial so anyone can do it too [[done](https://www.youtube.com/watch?v=COW1veHWiaE&t=207s)]
 
 - lived in rural Japan for some time. fell in love with Japanese culture, decided to speed run the language
 
