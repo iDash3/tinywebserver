@@ -76,9 +76,9 @@ This is a text file running on a minimalist [c web server](https://github.com/iD
 - ml paper remakes: explain theory using infini, then code them up from scratch.
   - sam
   - ...
- 
-- designed, built and raced robots at 16. only high school competitor at TryTa (robotics competition) [stopped bc it was too expensive]
- 
-- worked at VPS startup at 15
   
+- worked at VPS startup at 16
+
+- designed, built and raced robots by myself at 15. only high school competitor at TryTa (robotics competition) [stopped bc it was too expensive]
+
 still updating
