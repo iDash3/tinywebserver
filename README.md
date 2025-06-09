@@ -15,13 +15,17 @@ This is a text file running on a minimalist [c web server](https://github.com/iD
 
 #### ordered by recency
 
+- playable world models that run in your browser, all open source [[in progress]()]
+
+- helping my parents build a shed on the weekends: designing wooden structures, installing roofs, having things both fall and surprisingly stay in place. it's weirdly satisfying to build a physical thing where you can take shelter
+
 - started learning music ~2y ago and bought a cheap portable piano that i bring everywhere. everytime i hear a cool sound i recreate it. made an app with all the sounds i've been documenting. [[in progress]()]
 
-- designed and manufactured my own backpack
+- designed and manufactured my own backpack [[done]()]
 
-- needed to run image segmentation for a client project. created the GPU pipeline, then realized that a lot of work could be saved if all the models ran from the browser. ran the SAM decoder from the browser, now distilling the encoder [[in progress]()]
+- Built a one-command teacher-student pipeline that distilled Meta’s 2.4B-param SAM ViT to a 5M TinyViT, trainable on a single RTX 4090; made an open source ONNX runtime local server for fast, GPU-free in-browser segmentation that handles all pre processing and inference of the mini model; developed production ready, open-source npm packages (minisam, minisam-react) with typed hooks, plug-and-play UI, and live demos. [[done](https://x.com/isaacbautistas/status/1929628775207039123)]
 
-- diffusion math from absolute scratch!!! [[done]()]
+- explained the entire math behind diffusion from absolute scratch!!! [[done](https://x.com/isaacbautistas/status/1924902448470122563)]
 
 - annoyed at Azure's expensive Postgres service. ran my own devops for it instead and made a tutorial so anyone can do it too [[done](https://www.youtube.com/watch?v=COW1veHWiaE&t=207s)]
 
